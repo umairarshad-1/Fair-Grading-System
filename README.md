@@ -24,4 +24,14 @@ o	Created comparative visualizations, including histograms, bar charts, and box 
 o	Provided a detailed summary of grade adjustments and the impact on grade categories.
 5.	Error Handling:
 o	Ensured invalid or missing inputs were flagged with appropriate error messages.
+4. Results and Visualizations
+The following visualizations were generated to illustrate the results of the grading adjustments:
+1.	Histogram of Original Grades:
+o	Displays the distribution of raw scores before adjustments, showing variability in student performance.
+2.	Histogram of Relative Grades:
+o	Demonstrates the impact of applying relative grading, aligning grades to a normal distribution.
+3.	Box Plot of Grades:
+o	A comparative box plot highlights the spread, median, and outliers for both original and adjusted grades.
+4.	Bar Plot of Absolute Grades:
+o	Illustrates the count of students in each grade category (A, B, C, D, F) under absolute grading.
 
