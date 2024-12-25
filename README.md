@@ -1,4 +1,8 @@
 # Fair-Grading-System
+User Information:
+username: admin
+password: abc
+
 Fair Grading System using Python
 
 1. Introduction
