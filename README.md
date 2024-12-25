@@ -34,4 +34,29 @@ o	Demonstrates the impact of applying relative grading, aligning grades to a nor
 o	A comparative box plot highlights the spread, median, and outliers for both original and adjusted grades.
 4.	Bar Plot of Absolute Grades:
 o	Illustrates the count of students in each grade category (A, B, C, D, F) under absolute grading.
+5. Insights and Conclusions
+•	Relative Grading:
+o	Ensures fairness by adjusting grades to a predefined statistical distribution.
+o	Helps in situations where raw scores are unevenly distributed.
+•	Absolute Grading:
+o	Provides clear, fixed benchmarks for performance evaluation.
+o	May not reflect relative performance in competitive scenarios.
+•	Grade Distribution:
+o	Relative grading increased the proportion of students in higher grade categories.
+o	Absolute grading categorized students strictly based on predefined thresholds.
+________________________________________
+6. Challenges and Future Work
+•	Challenges:
+o	Handling missing or inconsistent data in real-world datasets.
+o	Balancing fairness in relative adjustments while maintaining transparency.
+•	Future Work:
+o	Implement a GUI for user-friendly interaction.
+o	Extend the system to support additional statistical and machine learning-based grading models.
+________________________________________
+7. Appendix
+•	Dataset: A sample dataset of student grades is provided in the accompanying CSV file.
+•	Code Implementation: The Python code used to generate the results and visualizations is available upon request.
+________________________________________
+8. References
+•	Statistical methodologies for grade normalization and distribution.
 
