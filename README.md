@@ -1,6 +1,6 @@
 # Fair-Grading-System
 Fair Grading System using Python
-Relative Grading System Project Report
+
 1. Introduction
 Grading systems at universities often rely on either absolute or relative grading schemes to determine final grades. The objective of this project is to design and implement a Relative Grading System that takes student scores, analyzes their distribution, and adjusts the grades to conform to a predefined distribution while maintaining fairness and statistical validity. This system allows instructors to input grades, select grading schemes, and visualize adjustments with statistical justifications. The report documents the methodology, statistical analysis, and results achieved during the project implementation.
 ________________________________________
